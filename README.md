@@ -10,4 +10,4 @@
 
 # Command to push committed change
 
-# git push: written as "git push origin [branch] saving your commits to the intended branch".
+# git push: written as "git push origin [branch]" saving your commits to the intended branch".
