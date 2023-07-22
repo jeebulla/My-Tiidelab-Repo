@@ -1,4 +1,7 @@
 /* Navigation Menu */
+body {
+  height: 100%;
+}
 header .container {
   padding: 0;
 }
@@ -17,7 +20,7 @@ nav ul li a {
 }
 /* Hero Page */
 #hero-page {
-  height: 70vh;
+  height: 100%;
   padding: 4% 2%;
 }
 .hero-content.container {
@@ -111,7 +114,10 @@ nav ul li a {
 }
 #contact h1 {
   font-size: 2rem;
+  margin: 4% auto 2%;
+  text-align: center;
 }
 #contact p {
   text-align: center;
+  margin: 2% auto;
 }
