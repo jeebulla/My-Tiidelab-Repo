@@ -160,7 +160,6 @@ a {
 /* About Section Styles */
 #about {
   background: #f4f4f4;
-  padding: 15px;
 }
 #about h1 {
   font-size: 3rem;
@@ -191,7 +190,7 @@ a {
   padding-top: 40px;
 }
 #testimonials h2 {
-  padding: 40px;
+  padding: 30px;
   color: #fff;
   font-size: 3rem;
   text-align: center;
@@ -213,6 +212,8 @@ a {
 .testimonial p {
   float: right;
   width: 80%;
+  padding-top: 17px;
+  text-align: justify;
 }
 
 /*Contact Section Styles*/

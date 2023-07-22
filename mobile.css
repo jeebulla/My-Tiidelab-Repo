@@ -1,0 +1,117 @@
+/* Navigation Menu */
+header .container {
+  padding: 0;
+}
+nav h1,
+nav ul,
+nav ul li {
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+nav ul li {
+  display: block;
+}
+nav ul li a {
+  border-bottom: 1px solid #444;
+}
+/* Hero Page */
+#hero-page {
+  height: 70vh;
+  padding: 4% 2%;
+}
+.hero-content.container {
+  padding-top: 5%;
+}
+.hero-content h1 {
+  font-size: 1.5rem;
+  line-height: 1.4;
+}
+/* History Section */
+.history-img {
+  display: none;
+}
+.history-text {
+  float: none;
+  width: 100%;
+}
+.history-text p {
+  text-align: justify;
+  line-height: 1.3;
+  word-break: break-all;
+}
+
+.box {
+  float: none;
+  width: 100%;
+}
+.box p {
+  width: 80%;
+  padding-left: 5%;
+}
+
+/* About Section */
+.info-left,
+.info-right {
+  float: none;
+  width: 100%;
+}
+
+#about h1 {
+  text-align: center;
+  line-height: 1.4;
+  font-size: 2rem;
+}
+.info-left {
+  padding: 2%;
+}
+
+.info-right img {
+  max-width: 95%;
+  margin: 5% auto;
+  margin-bottom: 10%;
+}
+.info-left p {
+  margin-right: 0;
+  word-wrap: break-word;
+  word-break: keep-all;
+}
+/* Testimonials */
+#testimonials {
+  height: 100%;
+}
+.testimonial {
+  width: 100%;
+}
+#testimonials .container h2 {
+  width: 100%;
+  padding: 1%;
+  font-size: 2rem;
+}
+.testimonial img,
+.testimonial p {
+  float: none;
+  text-align: center;
+  margin: 2% auto;
+  text-align: justify;
+  word-wrap: break-word;
+  word-break: keep-all;
+}
+.testimonial img {
+  display: block;
+}
+.testimonial p {
+  width: 100%;
+}
+/* Contact Section */
+#contact-info .box {
+  border-bottom: 1px solid #444;
+  text-align: center;
+  padding: 40px 10px;
+}
+#contact h1 {
+  font-size: 2rem;
+}
+#contact p {
+  text-align: center;
+}
