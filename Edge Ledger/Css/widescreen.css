@@ -1,0 +1,18 @@
+/* About */
+#what .items .item {
+  flex: 1;
+  display: flex;
+}
+#what .items .item {
+  text-align: left;
+}
+#what .items .item i {
+  align-self: center;
+  margin: 0.8rem;
+  margin-bottom: 0;
+}
+
+/* Contact Section */
+#contact .map {
+  flex: 2;
+}

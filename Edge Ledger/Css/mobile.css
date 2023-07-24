@@ -1,0 +1,46 @@
+/* Navbar */
+#navbar {
+  flex-direction: column;
+}
+#navbar ul {
+  padding: 0.8rem 0;
+}
+
+/* About */
+#what .items {
+  flex-flow: column nowrap;
+}
+
+#what .items .item {
+  flex: 1;
+  display: flex;
+}
+#what .items .item {
+  text-align: left;
+}
+#what .items .item i {
+  align-self: center;
+  margin: 0.8rem;
+  margin-bottom: 0;
+}
+
+/* Team */
+#who {
+  display: block;
+}
+#who .who-text {
+  width: 90%;
+  padding: 0.74rem;
+}
+
+/* Contact */
+#contact {
+  flex-flow: column nowrap;
+  justify-content: center;
+}
+#contact .contact-form,
+#contact .map {
+  margin: 0;
+  padding: 1rem;
+  width: 90%;
+}
